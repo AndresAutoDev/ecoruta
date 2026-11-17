@@ -1,0 +1,5 @@
+- Tokens JWT de Firebase Auth en `flutter_secure_storage` (Keychain/Keystore).
+- Todo el tráfico por HTTPS/TLS.
+- Reglas de Firestore/Storage por usuario (`backend/*.rules`).
+- Validación de reportes en Cloud Functions; el cliente no puede editar el estado.
+- Sin llaves en el repo: `.env` + `.gitignore`; `google-services.json` no versionado.
